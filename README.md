@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-terciopelo-negro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Piel de terciopelo negro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-terciopelo-negro/) |
+| **Get License** | [License this song: Piel de terciopelo negro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-terciopelo-negro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `32243c72b6fb94c7d8e3ee673f34e159a697c6586ffe3c9bddff8361080b9a99` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

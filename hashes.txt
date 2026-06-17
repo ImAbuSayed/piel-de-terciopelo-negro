@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de terciopelo negro
+
+This log tracks the cryptographic history and versioning for the song **Piel de terciopelo negro** (piel-de-terciopelo-negro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:31:41.437749 | `v1` | `32243c72b6fb94c7d8e3ee673f34e159a697c6586ffe3c9bddff8361080b9a99` | `d044562ba17079b40fab4f1557fec570cbe8274035f9c081024060cf9ad3e8cd` | `2026-06-17_piel-de-terciopelo-negro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
